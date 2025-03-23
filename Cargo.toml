@@ -30,6 +30,6 @@ scrypt = {version = "0.11", default-features = false}
 serde = { version = "1.0", features = ["derive"] }
 serde_json = "1.0"
 uuid = {version = "1.0", features = ["v4"]}
-rand = "0.8"
+rand = "0.9"
 ring = "0.17"
 zeroize = {version = "1", features = ["zeroize_derive"]}
